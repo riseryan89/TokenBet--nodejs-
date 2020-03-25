@@ -1,0 +1,38 @@
+{
+  "name": "aw-webapp",
+  "version": "1.0.0",
+  "description": "Arena Wave Web application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/arenalabs/aw-webapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/arenalabs/aw-webapp/issues"
+  },
+  "homepage": "https://gitlab.com/arenalabs/aw-webapp#README",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bcryptjs": "^2.4.3",
+    "big-js": "^3.1.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.3.0",
+    "mailgun-js": "^0.21.0",
+    "moment": "^2.22.2",
+    "mysql": "^2.16.0",
+    "node-cache": "^4.2.0",
+    "nodemon": "^1.18.4",
+    "redis": "^2.8.0",
+    "speakeasy": "^2.0.0",
+    "winston": "^3.1.0",
+    "winston-daily-rotate-file": "^3.3.3",
+    "xml2js": "^0.4.19"
+  }
+}
