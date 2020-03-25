@@ -5,3 +5,5 @@
 3. Its React Frontend is HERE
 4. This APP is like <https://www.binary.com/ko/tour.html>, But USING CRYPTOS.
 
+*Please ALWAYS check potential security vulnerabilities in your dependencies from:*
+<https://github.com/riseryan89/TokenBet--nodejs-/network/alerts>
